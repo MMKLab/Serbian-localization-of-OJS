@@ -13,32 +13,32 @@
   -->
 
 <locale name="en_US" full_name = "English">
-	<message key="author.submit">New Submission</message>
-	<message key="author.track">Active Submissions</message>
-	<message key="author.competingInterests"><![CDATA[Competing&nbsp;interests <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a>]]></message>
-	<message key="author.submit.submitArticle">Submit an Article</message>
-	<message key="author.submit.stepsToSubmit">Five Steps to Submit</message>
-	<message key="author.submit.startHereTitle">Start a New Submission</message>
-	<message key="author.submit.startHereLink"><![CDATA[<a href="{$submitUrl}" class="action">Click here</a> to go to step one of the five-step submission process.]]></message>
-	<message key="author.submit.step1">Step 1. Starting the Submission</message>
-	<message key="author.submit.step2">Step 2. Uploading the Submission</message>
-	<message key="author.submit.step3">Step 3. Entering the Submission's Metadata</message>
-	<message key="author.submit.step4">Step 4. Uploading Supplementary Files</message>
-	<message key="author.submit.step4a">Step 4a. Add a Supplementary File</message>
-	<message key="author.submit.step5">Step 5. Confirming the Submission</message>
-	<message key="author.submit.start">1. Start</message>
-	<message key="author.submit.upload">2. Upload Submission</message>
-	<message key="author.submit.metadata">3. Enter Metadata</message>
-	<message key="author.submit.supplementaryFiles">4. Upload Supplementary Files</message>
-	<message key="author.submit.confirmation">5. Confirmation</message>
-	<message key="author.submit.cancelSubmission">You can complete this submission at a later date by selecting Active Submissions from the Author home.</message>
-	<message key="author.submit.notAccepting">This journal is not accepting submissions at this time.</message>
-	<message key="author.submit.requestWaiver">Request Waiver</message>
-	<message key="author.submit.qualityForWaiver">Please consider waiving the Article Submission Fee for this article</message>
-	<message key="author.submit.addReasonsForWaiver">Please use the comments box below to indicate why fees should be waived.</message>
-	<message key="author.submit.mustEnterWaiverReason">If you are applying for a waiver, you must enter a reason in the space provided.</message>
-	<message key="author.submissions.queuedReviewSubsequent">In Review Round {$round}</message>
-	<message key="author.submissions.queuedReviewRevisions">In Review: Revisions Required</message>
+	<message key="author.submit">Nova Prijava Rada</message>
+	<message key="author.track">Aktivne Prijave Radova</message>
+	<message key="author.competingInterests"><![CDATA[Sukob&nbsp;interesa <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">SI&nbsp;Politika</a>]]></message>
+	<message key="author.submit.submitArticle">Prijavi Rad</message>
+	<message key="author.submit.stepsToSubmit">Pet Koraka za Prijavu Rada</message>
+	<message key="author.submit.startHereTitle">Počni Novu Prijavu Rada</message>
+	<message key="author.submit.startHereLink"><![CDATA[<a href="{$submitUrl}" class="action">Pratite ovaj link</a> da otpočnete prvi korak procesa od pet koraka za prijavu rada.]]></message>
+	<message key="author.submit.step1">Korak 1. Početak Prijave Rada</message>
+	<message key="author.submit.step2">Korak 2. Predaja Rada</message>
+	<message key="author.submit.step3">Korak 3. Popunjavanje Pratećih Podataka</message>
+	<message key="author.submit.step4">Korak 4. Predaja Priloga Radu</message>
+	<message key="author.submit.step4a">Korak 4a. Dodaj Datoteku Priloga</message>
+	<message key="author.submit.step5">Korak 5. Potvrda Prijave Rada</message>
+	<message key="author.submit.start">1. Početak</message>
+	<message key="author.submit.upload">2. Predaja Rada</message>
+	<message key="author.submit.metadata">3. Unos Pratećih Podataka</message>
+	<message key="author.submit.supplementaryFiles">4. Predaja Priloga Radu</message>
+	<message key="author.submit.confirmation">5. Potvrda</message>
+	<message key="author.submit.cancelSubmission">Možete kasnije završiti ovu predaju tako što ćete odabrati Aktivne Prijave Radova sa početne stranice Autora.</message>
+	<message key="author.submit.notAccepting">Ovaj časopis trenutno ne prima nove prijave radova.</message>
+	<message key="author.submit.requestWaiver">Zahtev za Odricanjem Prava</message>
+	<message key="author.submit.qualityForWaiver">Molimo Vas da razmotrite mogućnost odricanje od naknade za Prijavu za ovaj rad.</message>
+	<message key="author.submit.addReasonsForWaiver">Molimo Vas da u polje za komentar koje se nalazi dole unesete razloge zašto bi se trebalo odreći naknade.</message>
+	<message key="author.submit.mustEnterWaiverReason">Ukoliko aplicirate za odricanje od naknade, unesite razlog u predviđeni prostor.</message>
+	<message key="author.submissions.queuedReviewSubsequent">U {$round}. krugu recenzija</message>
+	<message key="author.submissions.queuedReviewRevisions">U Procesu Recenzija: Potrebna Recenzija</message>
 	<message key="author.submissions.queuedEditingCopyedit">In Editing: Copyedit Requested</message>
 	<message key="author.submissions.queuedEditingProofread">In Editing: Proofread Requested</message>
 	<message key="author.submissions.uploadCopyeditedVersion">Upload Copyedited Version</message>
