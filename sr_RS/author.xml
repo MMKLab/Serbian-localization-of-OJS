@@ -39,8 +39,8 @@
 	<message key="author.submit.mustEnterWaiverReason">Ukoliko aplicirate za odricanje od naknade, unesite razlog u predviđeni prostor.</message>
 	<message key="author.submissions.queuedReviewSubsequent">U {$round}. krugu recenzija</message>
 	<message key="author.submissions.queuedReviewRevisions">U Procesu Recenzija: Potrebna Recenzija</message>
-	<message key="author.submissions.queuedEditingCopyedit">In Editing: Copyedit Requested</message>
-	<message key="author.submissions.queuedEditingProofread">In Editing: Proofread Requested</message>
+	<message key="author.submissions.queuedEditingCopyedit">U Procesu Objave: Zahtev za Pripremom za Štampu</message>
+	<message key="author.submissions.queuedEditingProofread">U Procesu Objave: Zahtev za Gramatičkom Korekturom</message>
 	<message key="author.submissions.uploadCopyeditedVersion">Upload Copyedited Version</message>
 	<message key="author.submissions.proofreadingCorrections">Proofreading Corrections</message>
 	<message key="author.submissions.confirmDelete">Are you sure you want to delete this incomplete submission?</message>
