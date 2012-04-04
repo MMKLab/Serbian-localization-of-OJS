@@ -13,18 +13,18 @@
   -->
 
 <locale name="en_US" full_name = "English">
-	<message key="editor.article.reviewForms">Review Forms</message>
-	<message key="editor.article.selectReviewForm">Select Review Form</message>
-	<message key="editor.article.clearReviewForm">Clear Review Form</message>
+	<message key="editor.article.reviewForms">Forme za recenziju</message>
+	<message key="editor.article.selectReviewForm">Izbor forme za recenziju</message>
+	<message key="editor.article.clearReviewForm">Očisti formu za recenziju</message>
 	<message key="editor.home">Editor Home</message>
-	 <message key="editor.article.confirmChangeReviewForm">Warning: Changing the review form will affect any answers reviewers have made using this form. Are you sure you wish to continue?</message>
-	<message key="editor.submissionsAndPublishing">Submissions and Publishing</message>
+	<message key="editor.article.confirmChangeReviewForm">Warning: Changing the review form will affect any answers reviewers have made using this form. Are you sure you wish to continue?</message>
+	<message key="editor.submissionsAndPublishing">Prijave radova i objavljivanje</message>
 	<message key="editor.submissionQueue">Submission Queue</message>
 	<message key="editor.submissionArchive">Submission Archive</message>
-	<message key="editor.publishing">Publishing</message>
-	<message key="editor.publishedIssues">Published Issues</message>
-	<message key="editor.allSections">All Sections</message>
-	<message key="editor.allEditors">All Editors</message>
+	<message key="editor.publishing">Objavljivanje</message>
+	<message key="editor.publishedIssues">Objavljena izdanja</message>
+	<message key="editor.allSections">Sve sekcije</message>
+	<message key="editor.allEditors">Svi recezenti</message>
 	<message key="editor.me">Me</message>
 	<message key="editor.submissionArchive.noSubmissions">No submissions in the archive.</message>
 	<message key="editor.submissionArchive.saveChanges">Save changes to archived submissions? Submissions marked for deletion will be permanently deleted from the system.</message>
