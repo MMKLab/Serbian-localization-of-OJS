@@ -71,17 +71,17 @@
 	<!-- Common Error Messages -->
 		
 	<!-- Navigation -->
-	<message key="navigation.journalHelp">Journal Help</message>
-	<message key="navigation.archives">Archives</message>
-	<message key="navigation.current">Current</message>
-	<message key="navigation.otherJournals">Other Journals</message>
-	<message key="navigation.browseByIssue">By Issue</message>
-	<message key="navigation.browseByAuthor">By Author</message>
-	<message key="navigation.infoForAuthors">For Authors</message>
-	<message key="navigation.infoForLibrarians">For Librarians</message>
-	<message key="navigation.competingInterestGuidelines">Competing Interest Guidelines</message>
-	<message key="navigation.infoForAuthors.long">Information For Authors</message>
-	<message key="navigation.infoForLibrarians.long">Information For Librarians</message>
+	<message key="navigation.journalHelp">Časopis-Pomoć</message>
+	<message key="navigation.archives">Arhive</message>
+	<message key="navigation.current">Aktuelan</message>
+	<message key="navigation.otherJournals">Ostali Časopisi</message>
+	<message key="navigation.browseByIssue">Po Izdanju</message>
+	<message key="navigation.browseByAuthor">Po Autoru</message>
+	<message key="navigation.infoForAuthors">Za Autore</message>
+	<message key="navigation.infoForLibrarians">Za Bibliotekare</message>
+	<message key="navigation.competingInterestGuidelines">Smernice Sukoba Interesa</message>
+	<message key="navigation.infoForAuthors.long">Informacija Za Autore</message>
+	<message key="navigation.infoForLibrarians.long">Informacija Za Bibliotekare</message>
 	
 	<!-- Article Queues -->
 	<message key="common.queue.long.submissionsUnassigned">Unassigned</message>
