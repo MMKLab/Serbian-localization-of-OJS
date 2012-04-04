@@ -116,11 +116,11 @@
 	<message key="author.submit.suppFile.form.subjectRequired">Molimo unesite temu.</message>
 	<message key="author.submit.suppFile.form.descriptionRequired">Molimo unesite opis.</message>
 	<message key="author.suppFile.suppFilePublicIdentificationExists">Identifikator za javnu pomoćnu datoteku već postoji.</message>
-	<message key="author.suppFile.publicSuppFileIdentifier">Public supplemental file identifier</message>
-	<message key="author.submit.confirmationDescription">To submit your manuscript to {$journalTitle} click Finish Submission. The submission's principal contact will receive an acknowledgement by email and will be able to view the submission's progress through the editorial process by logging in to the journal web site. Thank you for your interest in publishing with {$journalTitle}.</message>
+	<message key="author.suppFile.publicSuppFileIdentifier">Identifikator javne pomoćne datoteke</message>
+	<message key="author.submit.confirmationDescription">Da konačno predate vaš rad u {$journalTitle} molim pritisnite Završi Prijavu. Glavni kontakt za prepisku sa uredništvom će primiti email sa potvrdom o uspešnoj prijavi rada i moći će da prati progres rada tako što će se prijaviti na sistem časopisa. Hvala Vam za vaše interesovanje da Vaš rad objavite u {$journalTitle}.</message>
 	<message key="author.submit.noFiles">No files have been attached to this submission.</message>
 	<message key="author.submit.filesSummary">File Summary</message>
-	<message key="author.submit.finishSubmission">Finish Submission</message>
+	<message key="author.submit.finishSubmission">Završi Prijavu</message>
 	<message key="author.submit.submissionComplete">Submission complete. Thank you for your interest in publishing with {$journalTitle}.</message>
 	<message key="author.submit.expedite"><![CDATA[If this submission is in a format that is ready to be published without further review, editing, or layout work, it can be placed directly in the last stage of the Editing queue by <a href="{$expediteUrl}" class="action">Clicking here</a>. (Note: Only journal editors have this option for their submissions.)]]></message>
 	<message key="author.article.uploadAuthorVersion">Upload Author Version</message>
