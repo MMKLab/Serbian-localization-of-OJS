@@ -42,8 +42,8 @@
 	<message key="submission.reviewFormResponse">Odziv Obrasca Recenzije</message>
 
 
-	<message key="reviewer.article.enterReviewForm">Click on icon to fill in the review form.</message>	
-	<message key="reviewer.article.reviewFormResponse.form.responseRequired">Please fill in required fields.</message>	
+	<message key="reviewer.article.enterReviewForm">Kliknite na ikonu da popunite obrazac za recenziju.</message>	
+	<message key="reviewer.article.reviewFormResponse.form.responseRequired">Molimo vas da popunite obavezna polja.</message>	
 	
 	<!-- review forms end -->
 
@@ -55,12 +55,12 @@
 
 	<!-- Common Messages -->
 	<message key="common.openJournalSystems">Open Journal Systems</message>
-	<message key="common.confirmComplete">Are you sure you wish to mark this task as completed? You may not be able to make changes afterwards.</message>
-	<message key="common.payment">Payment</message>
-	<message key="common.payments">Payments</message>
-	<message key="common.pageHeader.altText">Page Header</message>
-	<message key="common.homePageHeader.altText">Homepage Header</message>
-	<message key="common.journalHomepageImage.altText">Journal Homepage Image</message>
+	<message key="common.confirmComplete">Da li ste sigurni da želite da označite ovaj zadatak kao završen? Možda nećete moći na načinite izmene kasnije.</message>
+	<message key="common.payment">Plaćanje</message>
+	<message key="common.payments">Plaćanja</message>
+	<message key="common.pageHeader.altText">Zaglavlje Stranice</message>
+	<message key="common.homePageHeader.altText">Zaglavlje Početne Stranice</message>
+	<message key="common.journalHomepageImage.altText">Slika Početne Stranice Časopisa</message>
 
 	<!-- Common Form Messages -->
 	
