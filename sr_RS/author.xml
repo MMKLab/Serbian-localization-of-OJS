@@ -118,13 +118,13 @@
 	<message key="author.suppFile.suppFilePublicIdentificationExists">Identifikator za javnu pomoćnu datoteku već postoji.</message>
 	<message key="author.suppFile.publicSuppFileIdentifier">Identifikator javne pomoćne datoteke</message>
 	<message key="author.submit.confirmationDescription">Da konačno predate vaš rad u {$journalTitle} molim pritisnite Završi Prijavu. Glavni kontakt za prepisku sa uredništvom će primiti email sa potvrdom o uspešnoj prijavi rada i moći će da prati progres rada tako što će se prijaviti na sistem časopisa. Hvala Vam za vaše interesovanje da Vaš rad objavite u {$journalTitle}.</message>
-	<message key="author.submit.noFiles">No files have been attached to this submission.</message>
-	<message key="author.submit.filesSummary">File Summary</message>
+	<message key="author.submit.noFiles">Uz ovu prijavu nema priloženih datoteka.</message>
+	<message key="author.submit.filesSummary">Sažetak Datoteke</message>
 	<message key="author.submit.finishSubmission">Završi Prijavu</message>
-	<message key="author.submit.submissionComplete">Submission complete. Thank you for your interest in publishing with {$journalTitle}.</message>
-	<message key="author.submit.expedite"><![CDATA[If this submission is in a format that is ready to be published without further review, editing, or layout work, it can be placed directly in the last stage of the Editing queue by <a href="{$expediteUrl}" class="action">Clicking here</a>. (Note: Only journal editors have this option for their submissions.)]]></message>
-	<message key="author.article.uploadAuthorVersion">Upload Author Version</message>
-	<message key="author.article.copyeditedFile">Copyedited File</message>
-	<message key="author.article.authorRevisedFile">Author File</message>
-	<message key="author.submit.authorSubmitLoginMessage">A user account is required to submit to this journal. This allows our editors to track your submissions and contact you when the status of your submission changes, or if additional information is required from you.</message>
+	<message key="author.submit.submissionComplete">Prijava završena. Hvala Vam za interesovanje da objavite u {$journalTitle}.</message>
+	<message key="author.submit.expedite"><![CDATA[Ukoliko je ova prijava u formatu koji je spreman za objavu bez daljih recenzija, uređivanja, ili formatiranja, može se postaviti u poslednju fazu procesa objave <a href="{$expediteUrl}" class="action">Praćenjem ovog linka</a>. (Beleška: Samo urednici časopisa imaju omogućenu ovu opciju.)]]></message>
+	<message key="author.article.uploadAuthorVersion">Predaj Autorski Verziju</message>
+	<message key="author.article.copyeditedFile">Završna Verzija Datoteke</message>
+	<message key="author.article.authorRevisedFile">Autorska Datoteka</message>
+	<message key="author.submit.authorSubmitLoginMessage">Da biste prijavili rad potreban je autorski nalog. To omogućuje urednicima da prate vašu prijavu rada i kontaktiraju Vas kada dođe do promene statusa vaše prijave, ili ukoliko su potrebne dodatne informacije od Vas.</message>
 </locale>
