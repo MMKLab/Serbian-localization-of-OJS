@@ -42,7 +42,7 @@
 	<message key="submission.reviewFormResponse">Review Form Response</message>
 
 
-	<message key="reviewer.article.enterReviewForm">Click on icon to fill in the review form.</message>	
+	<message key="reviewer.article.enterReviewForm">Kliknite na ikonicu da biste popunili obrazac za recenziju.</message>	
 	<message key="reviewer.article.reviewFormResponse.form.responseRequired">Please fill in required fields.</message>	
 	
 	<!-- review forms end -->
