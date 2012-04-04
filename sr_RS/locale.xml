@@ -38,8 +38,8 @@
 
 
 	<!--  peer review -->
-	<message key="submission.reviewForm">Review Form</message>
-	<message key="submission.reviewFormResponse">Review Form Response</message>
+	<message key="submission.reviewForm">Forma Recenzije</message>
+	<message key="submission.reviewFormResponse">Odgovor Forme Recenzije</message>
 
 
 	<message key="reviewer.article.enterReviewForm">Click on icon to fill in the review form.</message>	
