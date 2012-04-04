@@ -39,7 +39,7 @@
 
 	<!--  peer review -->
 	<message key="submission.reviewForm">Obrazac Recenzije</message>
-	<message key="submission.reviewFormResponse">Odziv Obrasca Recenzije</message>
+	<message key="submission.reviewFormResponse">Odgovor na Obrazac Recenzije</message>
 
 
 	<message key="reviewer.article.enterReviewForm">Kliknite na ikonicu da popunite obrazac za recenziju.</message>	
