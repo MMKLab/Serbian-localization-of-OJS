@@ -42,7 +42,7 @@
 	<message key="submission.reviewFormResponse">Odziv Obrasca Recenzije</message>
 
 
-	<message key="reviewer.article.enterReviewForm">Kliknite na ikonu da popunite obrazac za recenziju.</message>	
+	<message key="reviewer.article.enterReviewForm">Kliknite na ikonicu da popunite obrazac za recenziju.</message>	
 	<message key="reviewer.article.reviewFormResponse.form.responseRequired">Molimo vas da popunite obavezna polja.</message>	
 	
 	<!-- review forms end -->
