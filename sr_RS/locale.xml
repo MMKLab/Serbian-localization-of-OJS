@@ -138,7 +138,7 @@
 	<message key="article.submission">Prijava Rada</message>
 	<message key="article.submissions">Prijave Radova</message>
 	<message key="article.details">Detalji</message>
-	<message key="article.abstract">Abstract</message>
+	<message key="article.abstract">Apstrakt</message>
 	<message key="article.coverPage.altText">Slika Naslovne Strane</message>
 	<message key="article.accessLogoOpen.altText">Otvoreni Pristup</message>
 	<message key="article.accessLogoRestricted.altText">Ograničeni Pristup</message>
@@ -159,59 +159,59 @@
 	<message key="submission.editorReview">Recenzija Urednika</message>
 	<message key="submission.notifyAuthor">Obavesti Autora</message>
 	<message key="submission.notifyEditor">Obavesti Urednika</message>
-	<message key="submission.editorAuthorRecord">E-mail Unos Urednika/Autora</message>
-	<message key="submission.reviewersVersion">Reviewer's annotated version of file</message>
-	<message key="submission.postReviewVersion">Post-review version of file</message>
-	<message key="submission.editorVersion">Editor Version</message>
-	<message key="submission.authorsRevisedVersion">Author's revised version of file</message>
-	<message key="submission.authorVersion">Author Version</message>
-	<message key="submission.copyediting">Copyediting</message>
-	<message key="submission.copyedit">Copyedit</message>
-	<message key="submission.proofreading">Proofreading</message>
-	<message key="submission.scheduling">Scheduling</message>
-	<message key="submission.scheduledIn">Scheduled for publication in {$issueName}.</message>
-	<message key="submission.scheduledIn.tba">(TBA)</message>	
-	<message key="submissions.sec">Sec</message>
-	<message key="submissions.step1">Step 1</message>
-	<message key="submissions.step3">Step 3</message>
-	<message key="submissions.queuedReview">In Review</message>
-	<message key="submissions.scheduled">Scheduled</message>
-	<message key="submissions.published">Published</message>
-	<message key="submissions.initial">Initial</message>
-	<message key="submissions.proofread">Proofread</message>
-	<message key="submissions.initialProof">Initial Proof</message>
-	<message key="submissions.postAuthor">Post-Author</message>
-	<message key="submissions.reviewRound">Review Round</message>
-	<message key="submissions.proof">Proof</message>
-	<message key="submissions.editorDecision">Editor Decision</message>
-	<message key="submissions.editorRuling">Editor Ruling</message>
-	<message key="submission.eventLog">Event Log</message>
+	<message key="submission.editorAuthorRecord">E-mail Zapis Urednika/Autora</message>
+	<message key="submission.reviewersVersion">Označena Verzija Datoteke Recenzenta</message>
+	<message key="submission.postReviewVersion">Verzija Datoteke Nakon Revizije</message>
+	<message key="submission.editorVersion">Verzija Urednika</message>
+	<message key="submission.authorsRevisedVersion">Recenzirana Verzija Datoteke Autora</message>
+	<message key="submission.authorVersion">Verzija Autora</message>
+	<message key="submission.copyediting">Proces Pripreme za Štampu</message>
+	<message key="submission.copyedit">Priprema za Štampu</message>
+	<message key="submission.proofreading">Proces Gramatičke Korekture</message>
+	<message key="submission.scheduling">Zakazivanje</message>
+	<message key="submission.scheduledIn">Zakazan za Objavljivanje u {$issueName}.</message>
+	<message key="submission.scheduledIn.tba">(Biće Zakazan)</message>	
+	<message key="submissions.sec">Rub</message>
+	<message key="submissions.step1">Korak 1</message>
+	<message key="submissions.step3">Korak 3</message>
+	<message key="submissions.queuedReview">U Procesu Recenzije</message>
+	<message key="submissions.scheduled">Zakazan</message>
+	<message key="submissions.published">Objavljen</message>
+	<message key="submissions.initial">Initial</message> <!-- nijeUradjeno -->
+	<message key="submissions.proofread">Gramatički Ispravljen</message>
+	<message key="submissions.initialProof">Initial Proof</message> <!-- nijeUradjeno -->
+	<message key="submissions.postAuthor">Post-Author</message> <!-- nijeUradjeno -->
+	<message key="submissions.reviewRound">Krug Recenzije</message>
+	<message key="submissions.proof">Korektura</message>
+	<message key="submissions.editorDecision">Odluka Urednika</message>
+	<message key="submissions.editorRuling">Editor Ruling</message> <!-- nijeUradjeno -->
+	<message key="submission.eventLog">Dnevnik Događaja</message>
 
 	<!-- Submission list search engine -->
-	<message key="submissions.copyeditComplete">Copyedited</message>
-	<message key="submissions.layoutComplete">Layout edited</message>
-	<message key="submissions.proofreadingComplete">Proofread</message>
+	<message key="submissions.copyeditComplete">Završena Priprema za Štampu</message>
+	<message key="submissions.layoutComplete">Izvršen prelom</message>
+	<message key="submissions.proofreadingComplete">Završena Gramatička Korektura</message>
 
 	<!-- Submission Notes -->
 	
 	<!-- Common Journal Terms -->
-	<message key="journal.currentIssue">Current Issue</message>
-	<message key="journal.journals">Journals</message>
-	<message key="journal.path">Path</message>
-	<message key="journal.journal">Journal</message>
+	<message key="journal.currentIssue">Aktuelno IzdanjeCurrent Issue</message>
+	<message key="journal.journals">Časopisi</message>
+	<message key="journal.path">Putanja</message>
+	<message key="journal.journal">Časopis</message>
 	<message key="journal.issn">ISSN</message>
 
 	<!-- User -->
-	<message key="user.showAllJournals">Show My Journals</message>
-	<message key="user.registerForOtherJournals">Register for Other Journals</message>
-	<message key="user.myJournals">My Journals</message>
-	<message key="user.manageMySubscriptions">Manage My Subscriptions</message>
-	<message key="user.noRoles.chooseJournal">Your account is not currently associated with any journals. Please choose a journal:</message>
-	<message key="user.noRoles.noRolesForJournal">Your account does not currently have any roles for this journal. Please choose from the actions below:</message>
-	<message key="user.noRoles.submitArticle">Submit a Proposal</message>
-	<message key="user.noRoles.submitArticleRegClosed">Submit an Article: Author registration is currently disabled.</message>
-	<message key="user.noRoles.regReviewer">Register as a Reviewer</message>
-	<message key="user.noRoles.regReviewerClosed">Register as a Reviewer: Reviewer registration is currently disabled.</message>
+	<message key="user.showAllJournals">Prikaži Moje Časopise</message>
+	<message key="user.registerForOtherJournals">Registruj se na Ostale Časopise</message>
+	<message key="user.myJournals">Moji Časopisi</message>
+	<message key="user.manageMySubscriptions">Upravljaj Mojim Pretplatama</message>
+	<message key="user.noRoles.chooseJournal">Vaš nalog trenutno nije povezan ni sa jednim časopisom. Molim izaberite časopis:</message>
+	<message key="user.noRoles.noRolesForJournal">Vaš nalog trenutno nema ni jednu ulogu za ovaj časopis. Molim izaberite akciju:</message>
+	<message key="user.noRoles.submitArticle">Prijavi Predlog</message>
+	<message key="user.noRoles.submitArticleRegClosed">Prijavi Članak: Registracija autora je trenutno onemogućena.</message>
+	<message key="user.noRoles.regReviewer">Registruj se kao Recenzent</message>
+	<message key="user.noRoles.regReviewerClosed">Registruj se kao Recenzent: Registracija recenzenata je trenutno onemogućena.</message>
 
 	<!-- Roles -->
 	<message key="user.role.manager">Journal Manager</message>
